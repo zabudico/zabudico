@@ -1,6 +1,6 @@
 # Алоха 👋
 
-![It's me](images/image.png){ width=50% }
+![It's me](images/image.png)
 
 ---
 
@@ -31,25 +31,25 @@
 
 ### 1. Знаю (относительно):
 
-- 1. **C++** (![C++ ](images/c.svg)){ width=50% }
-- 2. **Python** (![Python](images/python.svg)){ width=50% }
-- 3. **Pascal **(![Pascal](images/pascal.svg)){ width=50% }
+- 1. **C++**
+- 2. **Python**
+- 3. **Pascal **
 
 ### 2. Изучаю:
 
-- 1. **JS**(![JS](images/js-svgrepo-com.svg)){ width=50% }
-- 2. **PHP**(![PHP](images/php-svgrepo-com.svg)){ width=50% }
-- 3. **Java**(![Java](images/java-svgrepo-com.svg)){ width=50% }
+- 1. **JS**
+- 2. **PHP**
+- 3. **Java**
 
 ### 3. Хочу изучить:
 
-- 1. **Rust**(![Rust](images/rust-svgrepo-com.svg)){ width=50% }
-- 2. **Golang**(![Golang](images/golang-1.svg)){ width=50% }
+- 1. **Rust**
+- 2. **Golang**
 
 ---
 
 ## Контакты
 
-| Gmail                                                                                                                                                                                                                                                              | LinkedIn                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/256px-Gmail_icon_%282020%29.svg.png)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbttxZrSJNQlVKmgCjGJQbMBvqPRRwGjTqVpSxLHxcDqhlXvnBWpjVBFSctrjDklZtdCZB) | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/256px-LinkedIn_2021.svg.png)](https://www.linkedin.com/in/alexandr-zabudico-150b66244/) |
+| Gmail                                                                                                                                                           | LinkedIn                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/256px-Gmail_icon_%282020%29.svg.png)](mailto:travor038@gmail.com) | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/256px-LinkedIn_2021.svg.png)](https://www.linkedin.com/in/alexandr-zabudico-150b66244/) |
