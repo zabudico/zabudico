@@ -16,15 +16,15 @@
 В такие моменты в моей голове звучит один ответ: "У самурая:japanese_goblin: нет цели — есть лишь путь. Путь, покрытый кофе, фруктовым смузи и слезами джунов, дрожащих под напором этого чудовищного зверя. Именно поэтому единственное стремление, которое я могу назвать достойным, — победа над этим Левиафаном."
 
 Из интересов хочу выделить web разработку(
-Fullstack(Js,React,NodeJs,Tailwind,PHP,Layout)); историю ; Heroes of Might and Magic III :dragon: ; Warhammer 40,000; HOI4 old world blues, и многое другое, что автор оставляет за пределами взоров особо уполномоченных сотрудников :police_car: .
+Fullstack(Js,React,NodeJs,Tailwind,PHP,Layout)); историю ; Heroes of Might and Magic III :dragon: ; Warhammer 40,000; HOI4 old world blues, и многое другое, что автор оставляет за пределами взоров особо уполномоченных сотрудников.
 
 Заявить, что я знаю язык программирования, слищком самонадеянно,но с ними я сталкивался
 
-:goberserk: C++ :fist: , :thumbsdown: Python,PascalABС
+C++,Python,PascalABС
 
 Из языков, которые я иузучаю
 
-:suspect: JS,PHP,Java
+JS,PHP,Java
 
 Хочу изучить
 
