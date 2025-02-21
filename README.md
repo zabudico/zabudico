@@ -1,6 +1,6 @@
 # Алоха 👋
 
-![Аватар мой](https://github.com/.png)
+![Аватар мой](![It's me](images/image.png))
 
 ---
 
@@ -29,22 +29,22 @@
 
 ## Языки программирования
 
-### Знаю (относительно):
+### 1. Знаю (относительно):
 
-- **C++**
-- **Python**
-- **Pascal ABC**
+- 1. **C++** (![C++ ](images/c.svg))
+- 2. **Python** (![Python](images/python.svg))
+- 3. **Pascal **(![Pascal](images/pascal.svg))
 
-### Изучаю:
+### 2. Изучаю:
 
-- **JS**
-- **PHP**
-- **Java**
+- 1. **JS**(![JS](images/js-svgrepo-com.svg))
+- 2. **PHP**(![PHP](images/php-svgrepo-com.svg))
+- 3. **Java**(![Java](images/java-svgrepo-com.svg))
 
-### Хочу изучить:
+### 3. Хочу изучить:
 
-- **Rust**
-- **Golang**
+- 1. **Rust**(![Rust](images/rust-svgrepo-com.svg))
+- 2. **Golang**(![Golang](images/golang-1.svg))
 
 ---
 
