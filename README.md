@@ -1,4 +1,24 @@
-## Hi there 👋
+## Алоха 👋
+
+![Аватар пользователя](https://github.com/zabudico.png)
+
+Не мальчик , но муж ночного дозора.
+Слова не мальчика,но мужа.
+Ты ничего не знаешь Джон Сноу.
+
+Зима
+
+Fullstack(Js,PHP,Layout)
+
+- loremgsuosdbzivfuisdrgfuyahuerogsfhduigvfa
+
+gurogihdsfugo8ah\
+
+gajbroi7ifhasuf
+
+©
+
+© É}
 
 <!--
 **zabudico/zabudico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
