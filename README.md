@@ -1,6 +1,6 @@
 # Алоха 👋
 
-![Аватар мой](![It's me](images/image.png))
+(![It's me](images/image.png){width=300 height=200})
 
 ---
 
